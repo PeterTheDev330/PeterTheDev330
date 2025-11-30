@@ -16,7 +16,7 @@ I'm in pursuit of proving that, in coding, collaboration beats domination. Being
 - App Development (with .NET framework) 
 - UI/ UX Designing
 - Python
-- Wed development frameworks
+- Web development frameworks
 
 
 ### 📫 How to reach me:
