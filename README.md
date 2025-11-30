@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+My name is **Peter Simpanzye**.  
+
+I am a student doing my Bachelor of Science in Computer Science, with an aspiration of becoming a **Software Engineer**, with a reputable name that speaks for itself. 
 <!--
 **PeterTheDev330/PeterTheDev330** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
