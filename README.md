@@ -6,7 +6,7 @@ I am a student doing my Bachelor of Science in Computer Science, with an aspirat
 
 I'm in pursuit of proving that, in coding, collaboration beats domination. Being a team player is a necessity for continued tech growth. 
 
-### I’m currently learning on
+### Skills
 - The C++ programming language
 - HTML and CSS, for front-end web development
 - Graphics Designing, with CoralDraw
