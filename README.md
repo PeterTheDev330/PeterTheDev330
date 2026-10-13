@@ -1,8 +1,15 @@
 # 💫 About Me:
-Hi there 👋<br><br>My name is **Peter Simpanzye**.  <br><br>I am a student doing my Bachelor of Science in Computer Science, with an aspiration of becoming a **Software Engineer**, with a reputable name that speaks for itself. <br><br>I'm in pursuit of proving that, in coding, collaboration beats domination. Being a team player is a necessity for continued tech growth. <br><br>🔗 Portfolio: https://simpanzyepeter.onrender.com/<br>📫 Open to collaborations and opportunities: petersimpanzye@gmail.com<br>
-## 🌱 Currently learning
-- C# and App Development with the .NET Framework<br>- UI/UX Design<br>- Python and Web Development Frameworks<br>- Networking using CISCO Packet Tracer<br><br>
+Hi there 👋  
+My name is **Peter Simpanzye**.  
+I am a student doing my Bachelor of Science in Computer Science, with an aspiration of becoming a **Software Engineer**, with a reputable name that speaks for itself. I'm in pursuit of proving that, in coding, collaboration beats domination. Being a team player is a necessity for continued tech growth.
+- 🔗 Portfolio: https://simpanzyepeter.onrender.com/
+- 📫 Open to collaborations and opportunities: petersimpanzye@gmail.com
 
+## 🌱 Currently learning
+- C# and App Development with the .NET Framework
+- UI/UX Design
+- Python and Web Development Frameworks
+- Networking using CISCO Packet Tracer
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/peter.smpanzye) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/peter_simpanzye) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/peter-simpanzye-583692315) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/user1940358) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:petersimpanzye@gmail.com) 
